@@ -11,21 +11,21 @@ BigMarket is a startup that helps businesses optimize their marketing efforts. A
 
 ## Results
 
-**- How many Vine reviews and non-Vine reviews were there? **
+**-How many Vine reviews and non-Vine reviews were there? **
 
 39,976 total of reviews
 
-**- How many Vine reviews were 5 stars? ** 
+**-How many Vine reviews were 5 stars? ** 
 
 21,061 
 
-**- How many non-Vine reviews were 5 stars?**
+**-How many non-Vine reviews were 5 stars?**
 
-**- What percentage of Vine reviews were 5 stars? **
+**-What percentage of Vine reviews were 5 stars? **
 
 51% 
 
-**- What percentage of non-Vine reviews were 5 stars? **
+**-What percentage of non-Vine reviews were 5 stars? **
 
 53% 
 
