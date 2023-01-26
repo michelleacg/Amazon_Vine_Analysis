@@ -11,13 +11,25 @@ BigMarket is a startup that helps businesses optimize their marketing efforts. A
 
 ## Results
 
-How many Vine reviews and non-Vine reviews were there? 39,976 total of reviews 
-How many Vine reviews were 5 stars?  21,061 How many non-Vine reviews were 5 stars?
-What percentage of Vine reviews were 5 stars? 51% What percentage of non-Vine reviews were 5 stars? 53% 
+**- How many Vine reviews and non-Vine reviews were there? **
+
+39,976 total of reviews
+
+**- How many Vine reviews were 5 stars? ** 
+
+21,061 
+
+**- How many non-Vine reviews were 5 stars?**
+
+**- What percentage of Vine reviews were 5 stars? **
+
+51% 
+
+**- What percentage of non-Vine reviews were 5 stars? **
+
+53% 
 
 ## Summary 
-
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
 
 The Vine review analysis was made with the outdoor data. The total of paid 5 star reviews is 53%, and the total of unpaid 5 star reviews is 51% which is very close, so there doesn't seem to be a bias. 
 
