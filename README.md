@@ -5,4 +5,5 @@ Big Data
 ![Screen Shot 2023-01-26 at 2 06 54 AM](https://user-images.githubusercontent.com/111101012/214809411-8800bb09-caea-46b0-91aa-b3bd4511d9a9.png)
 
 
-BigMarket is a startup that helps businesses optimize their marketing efforts. The client $ellby is about to release a large catalog of products on a leading retail website. They want to know how the reviews of their products compare to the reviews of similar products sold by their competitors. They're also interested in enrolling in a program that gives out free products to select reviewers but they want to know if it's worth the cost.
+BigMarket is a startup that helps businesses optimize their marketing efforts. A recent project is to analyze Amazon reviews written by members of the paid Amazon Vine program. The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies like SellBy pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review.
+
